@@ -1,8 +1,8 @@
-package com.java8.lambdaexpressions;
+package com.java8.lambdaexpressions.basics;
 
-import com.java8.lambdaexpressions.functional.interfaces.IAdd;
-import com.java8.lambdaexpressions.functional.interfaces.ISquareInt;
-import com.java8.lambdaexpressions.functional.interfaces.IStringLength;
+import com.java8.lambdaexpressions.basics.interfaces.IAdd;
+import com.java8.lambdaexpressions.basics.interfaces.ISquareInt;
+import com.java8.lambdaexpressions.basics.interfaces.IStringLength;
 
 class StringLength implements IStringLength{
 

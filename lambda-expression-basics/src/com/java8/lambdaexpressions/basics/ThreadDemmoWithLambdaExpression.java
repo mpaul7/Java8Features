@@ -1,4 +1,4 @@
-package com.java8.lambdaexpressions;
+package com.java8.lambdaexpressions.basics;
 
 public class ThreadDemmoWithLambdaExpression {
 
