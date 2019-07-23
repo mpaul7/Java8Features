@@ -29,6 +29,10 @@ public class PredicateBasics {
 		// p1.and(p2)
 		// P1.or(p2)
 		// These are default methods in Predicate
+		
+		// There is one static method 
+		// isEqual()
+		//public static Predicate isEqual(T t)
 
 		System.out.println("===================================");
 		// =====================================
@@ -54,5 +58,11 @@ public class PredicateBasics {
 			}		
 		}
 		System.out.println(l2);
-	}
+
+		
+		//  isEqual() static method
+		
+		Predicate<String> p6 = Predicate.isEqual("mpaul");
+		System.out.println(p6.test("mpaul")); // => true
+}
 }
