@@ -1,4 +1,4 @@
-package com.java8.primitivetypefunctionalinterfaces.supplier;
+package com.java8.primitivetypefunctionalinterfaces.binaryoperator;
 
 import java.util.function.BiFunction;
 import java.util.function.BinaryOperator;

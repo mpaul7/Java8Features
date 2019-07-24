@@ -1,4 +1,4 @@
-package com.java8.primitivetypefunctionalinterfaces.supplier;
+package com.java8.primitivetypefunctionalinterfaces.unaryoperator;
 
 import java.util.function.*;
 public class UnaryOperatorBasics {
