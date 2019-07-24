@@ -4,7 +4,7 @@ import java.util.function.BiConsumer;
 import java.util.function.IntConsumer;
 import java.util.function.ObjDoubleConsumer;
 
-public class PrimitiveTypeFunctionalInterfacesConsumer {
+public class PrimitiveConsumer {
 
 	public static void main(String[] args) {
 

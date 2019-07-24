@@ -2,7 +2,7 @@ package com.java8.primitivetypefunctionalinterfaces.predicate;
 
 import java.util.function.IntPredicate;
 
-public class PrimitiveFunctionalInterfacesPredicate {
+public class PrimitivePredicate {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

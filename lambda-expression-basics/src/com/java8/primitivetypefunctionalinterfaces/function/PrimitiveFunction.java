@@ -4,7 +4,7 @@ import java.util.function.IntFunction;
 import java.util.function.IntToDoubleFunction;
 import java.util.function.ToIntFunction;
 
-public class PrimitiveTypeFunctionalInterfacesFunction {
+public class PrimitiveFunction {
 
 	public static void main(String[] args) {
 
