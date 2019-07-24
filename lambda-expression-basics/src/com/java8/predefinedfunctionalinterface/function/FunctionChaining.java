@@ -24,6 +24,6 @@ public class FunctionChaining {
 		// identity()
 		Function<String, String> f5 = Function.identity();
 		
-		System.out.println(f5.apply("mpaul"));
+		System.out.println(f5.apply("mpaul")); // -> mpaul
 	}
 }
