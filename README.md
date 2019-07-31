@@ -9,3 +9,7 @@
 8. Producer
 9. :: operator
 10. Streams
+
+<public static void main(){
+}
+>
