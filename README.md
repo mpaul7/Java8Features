@@ -10,6 +10,5 @@
 9. :: operator
 10. Streams
 
-<public static void main(){
-}
->
+# References
+https://github.com/winterbe/java8-tutorial
