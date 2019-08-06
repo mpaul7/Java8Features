@@ -16,6 +16,8 @@
 
 https://github.com/winterbe/java8-tutorial
 
+https://winterbe.com/posts/2015/03/15/avoid-null-checks-in-java/
+
 ## Java 11
 
 https://winterbe.com/posts/2018/09/24/java-11-tutorial/
