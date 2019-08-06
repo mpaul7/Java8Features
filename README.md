@@ -1,4 +1,4 @@
-# Java8Features
+# Java8 Features
 1. Lambda Expressions
 2. Functional Interfaces
 3. Default methods in Functional Interfaces
