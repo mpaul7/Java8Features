@@ -15,6 +15,7 @@ public class StaticMethodDemo implements Interf2 {
 
 	public static void main(String[] args) {
 		// m1();  incorrect
+		// interface static method by default is not available to the implementation class.
 		// StaticMethodDemo.m1(); incorrect
 		StaticMethodDemo d = new StaticMethodDemo();
 		// d.m1(); incorrect
@@ -23,3 +24,6 @@ public class StaticMethodDemo implements Interf2 {
 	}
 
 }
+
+// since interface static methods are not available to the imlementation class
+// so overriding interface static methods is not allowed. 
