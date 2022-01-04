@@ -8,8 +8,8 @@
  * - access modifier
  * =================
  * Similar to method body lambda expression body also can contain multiple statements.
-if more than one statements are present then enclose them inside within curly braces.
-if one statement present then curly braces are optional.
+if more than one statements are present then enclose them inside curly braces.
+if one statement is present then curly braces are optional.
 ===============
 * How to call lambda function
 * - to call lambda expressions, lambda functions are required. 
